@@ -1,0 +1,3 @@
+install vscode: https://www.youtube.com/watch?v=bN6DE-4uFNo
+
+tutorial: https://www.w3schools.com/
